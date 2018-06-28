@@ -43,6 +43,7 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 1. Abdominal atlas is in the way: lung and liver are already segmented
 1. Biloma case segmentation is also in the way: the pre and post intervention state
 1. Web tool for atlas assembly is also ready and clinicians will soon get the training to use it so they will be able to create and compile their own atlas by themselves
+
 [Video](https://www.youtube.com/watch?v=lkSY_Km5JF0)
 
 
