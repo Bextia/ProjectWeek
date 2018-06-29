@@ -44,16 +44,19 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 1. Biloma case segmentation is also in the way: the pre and post intervention state
 1. Web tool for atlas assembly is also ready and clinicians will soon get the training to use it so they will be able to create and compile their own atlas by themselves
 
-Segmentations for the biloma case:
+*Segmentations for the biloma case:
 
  <img src="spleen_biloma.png" height="200">  <img src="biloma.png" height="200">
 
-Segmentations for the Male Pelvis Atlas
+* Segmentations for the Male Pelvis Atlas
 
 <img src="pelvis-segmentation.png" height="200">   [<img src="pelvis-video.jpg" height="200">](https://www.youtube.com/watch?v=lkSY_Km5JF0 "Male Pelvis Video")
 
+* Atlas assembly web tool
 
-![Male Pelvis segmentation](pelvis-segmentation.png "Male Pelvis segmentation")  [![Male Pelvis Video](pelvis-video.jpg)](https://www.youtube.com/watch?v=lkSY_Km5JF0 "Male Pelvis Video")
+<img src="tool0.jpg" height="200">   <img src="tool1.jpg" height="200"> 
+
+
 
 ## Illustrations
 
