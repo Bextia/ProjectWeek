@@ -33,8 +33,8 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 ## Approach and Plan
 
-1. Training using the 3DSlicer segment editor.
-1. Images study and selection.
+1. Training using the 3DSlicer segment editor
+1. Images study and selection
 
 
 ## Progress and Next Steps
