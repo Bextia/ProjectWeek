@@ -74,5 +74,5 @@ Anatomical Atlas - Open Anatomy Browser.
 
 ## Background and References
 
-+ [3D Slicer](https://www.slicer.org)
-+ [Open Antomy Browser](https://www.openanatomy.org/)
++ [3D Slicer](https://www.slicer.org).
++ [Open Antomy Browser](https://www.openanatomy.org/).
